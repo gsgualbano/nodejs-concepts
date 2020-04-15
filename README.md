@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> A small Nodejs project with some of the basic concepts of the platform
+> A small Nodejs project with some of the basic concepts of the platform, based on the [Rocketseat Bootcamp](https://rocketseat.com.br/gostack) Level 1 Nodejs Challenge
 
 ### 🏠 [Homepage](https://github.com/gsgualbano/nodejs-concepts#readme)
 
